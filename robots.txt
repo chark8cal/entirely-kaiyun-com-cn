@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chark8cal.github.io/entirely-kaiyun-com-cn/sitemap.xml
